@@ -17,7 +17,7 @@ CO2_FACTORS = {
     },
     "energy": 0.5
 }
-GOOD_THRESHOLD = 350
+GOOD_THRESHOLD = 300
 
 # Подключение к БД
 def get_db():
